@@ -2,23 +2,27 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="https://web.me.iastate.edu/idealab/index.html">Iowa State University</a>. 
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>210 Lab of Mechanics</p>
+    <p>2529 Union Drive</p>
+    <p>Ames, IA 50011</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Postdoctoral Researcher in the Department of Mechanical Engineering at the Iowa State University. Prior to this, I finished my PhD under joint supervision of [Adarsh Krishnamurthy](https://web.me.iastate.edu/idealab/index.html) and [Soumik Sarkar](http://scslab.me.iastate.edu/). My research focuses on building computational tools for engineering applications. The goal of this research is to facilitate end-user engineers with better, faster and more robust tools, particularly for design.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+The research can be summarized into three broad categories:
+1. Deep learning for physics-driven design and manufacturing
+2. GPU computing for geometric design
+3. Geometry-aware computational simulation tools
+
+Feel free to reach me at: baditya [at] iastate [dot] edu

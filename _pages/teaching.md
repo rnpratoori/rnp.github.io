@@ -2,10 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: These are courses I taught in Iowa State University along with my advisors.
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+1. ME 280X: Design and Analysis of Cyber Physical Systems, **Fall 2021**
 
-Organize your courses by years, topics, or universities, however you like!
+2. ME 592X: Data Analytics and Machine Learning for Cyber Physical Systems, **Spring 2021**
+
+3. ME 570X: Solid Modeling and GPU Computing, **Fall 2020** 
