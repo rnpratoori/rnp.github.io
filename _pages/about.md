@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am Postdoctoral Researcher in the Department of Mechanical Engineering at the Iowa State University. Prior to this, I finished my PhD under joint supervision of [Adarsh Krishnamurthy](https://web.me.iastate.edu/idealab/index.html) and [Soumik Sarkar](http://scslab.me.iastate.edu/). My research focuses on building computational tools for engineering applications. The goal of this research is to facilitate end-user engineers with better, faster and more robust tools, particularly for design.
+I am a Data Scientist in the Translational AI Center at Iowa State University. Prior to this, I finished my PhD under joint supervision of [Adarsh Krishnamurthy](https://web.me.iastate.edu/idealab/index.html) and [Soumik Sarkar](http://scslab.me.iastate.edu/). My research focuses on building computational tools for engineering applications. The goal of this research is to facilitate end-user engineers with better, faster and more robust tools, particularly for design.
 
 
 The research can be summarized into three broad categories:
