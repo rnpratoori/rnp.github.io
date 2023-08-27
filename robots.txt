@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: rnp.github.io/sitemap.xml
+Sitemap: rnpratoori.github.io/sitemap.xml
