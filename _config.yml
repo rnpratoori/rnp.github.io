@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Aditya
+first_name: Raghunandan
 middle_name: 
-last_name: Balu 
-email: baditya@iastate.edu
+last_name: Pratoori 
+email: rnp@iastate.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Hi all! This is the personal website for Aditya Balu
 footer_text: >
