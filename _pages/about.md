@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://web.me.iastate.edu/idealab/index.html">Iowa State University</a>. 
+description: <a href="https://www.aere.iastate.edu/">Iowa State University </a> & <a href="https://www.anl.gov/">Argonne National Lab</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>210 Lab of Mechanics</p>
-    <p>2529 Union Drive</p>
+    <p>2348 Howe Hall</p>
+    <p>537 Bissel Rd</p>
     <p>Ames, IA 50011</p>
 
 news: true  # includes a list of news items
@@ -17,12 +17,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Data Scientist in the Translational AI Center at Iowa State University. Prior to this, I finished my PhD under joint supervision of [Adarsh Krishnamurthy](https://web.me.iastate.edu/idealab/index.html) and [Soumik Sarkar](http://scslab.me.iastate.edu/). My research focuses on building computational tools for engineering applications. The goal of this research is to facilitate end-user engineers with better, faster and more robust tools, particularly for design.
-
-
-The research can be summarized into three broad categories:
-1. Deep learning for physics-driven design and manufacturing
-2. GPU computing for geometric design
-3. Geometry-aware computational simulation tools
-
-Feel free to reach me at: baditya [at] iastate [dot] edu
+I am a PhD candidate in Aerospace Engineering at Iowa State University, specializing in Engineering Mechanics and Advanced Scientific Computing. Previously, I obtained an M.Sc(Hons.) in Chemistry and a B.E.(Hons.) in Mechanical Engineering and received my M.S. (by Research) in Applied Mechanics from the Indian Institute of Technology Madras. My research focuses on multiscale modeling of polymers and metals, ranging from molecular to continuum scales.
