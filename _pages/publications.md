@@ -3,8 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: 
-years_arxiv: [2021, 2020]
-years_journals: [2021, 2019, 2018, 2017, 2016, 2015, 2014]
+years_journals: [2023, 2022, 2021, 2020]
 years_conferences: [2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014]
 years_workshops: [2020, 2019, 2018, 2017, 2016]
 nav: true
