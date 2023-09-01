@@ -5,7 +5,7 @@ title: publications
 description: 
 years_journals: [2023, 2022, 2021, 2020]
 years_refconferences: [2017]
-years_conferences: [2020, 2019, 2018, 2017, 2016]
+years_conferences: [2023, 2022, 2021, 2018, 2017, 2014]
 nav: true
 ---
 
@@ -25,7 +25,7 @@ nav: true
 
 <div class="publications">
 
-{% for y in page.years_conferences %}
+{% for y in page.years_refconferences %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f refconferences -q @*[year={{y}}]* %}
 {% endfor %}
@@ -38,7 +38,7 @@ nav: true
 <div class="publications">
 
 
-{% for y in page.years_workshops %}
+{% for y in page.years_conferences %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f conferences -q @*[year={{y}}]* %}
 {% endfor %}
