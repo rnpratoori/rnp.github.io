@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description: 
 years_journals: [2023, 2022, 2021, 2020]
-years_ref_conferences: [2017]
+years_refconferences: [2017]
 years_conferences: [2020, 2019, 2018, 2017, 2016]
 nav: true
 ---
@@ -27,7 +27,7 @@ nav: true
 
 {% for y in page.years_conferences %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f ref_conferences -q @*[year={{y}}]* %}
+  {% bibliography -f refconferences -q @*[year={{y}}]* %}
 {% endfor %}
 
 </div>
