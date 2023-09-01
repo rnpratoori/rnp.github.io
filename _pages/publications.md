@@ -10,15 +10,7 @@ years_workshops: [2020, 2019, 2018, 2017, 2016]
 nav: true
 ---
 
-## arxiv preprints
-
-<div class="publications">
-
-{% bibliography -f arxiv %}
-
-</div>
-
-## journals
+## Journals
 
 <div class="publications">
 
@@ -30,26 +22,26 @@ nav: true
 </div>
 
 
-## conferences
+## Refereed Conferences
 
 <div class="publications">
 
 {% for y in page.years_conferences %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f conferences -q @*[year={{y}}]* %}
+  {% bibliography -f ref_conferences -q @*[year={{y}}]* %}
 {% endfor %}
 
 </div>
 
 
-## workshops
+## Other Conferences
 
 <div class="publications">
 
 
 {% for y in page.years_workshops %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f workshops -q @*[year={{y}}]* %}
+  {% bibliography -f conferences -q @*[year={{y}}]* %}
 {% endfor %}
 
 </div>
