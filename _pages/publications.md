@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: 
 years_journals: [2023, 2022, 2021, 2020]
 years_refconferences: [2017]
