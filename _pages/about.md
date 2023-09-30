@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 description: <a href="https://www.aere.iastate.edu/">Iowa State University </a> & <a href="https://www.anl.gov/">Argonne National Lab</a>.
 
