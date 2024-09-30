@@ -6,6 +6,7 @@ description:
 years_journals: [2023, 2022, 2021, 2020]
 years_refconferences: [2017]
 years_conferences: [2023, 2022, 2021, 2018, 2017, 2014]
+years_arxiv: [2024,2023]
 nav: true
 ---
 
@@ -20,6 +21,16 @@ nav: true
 
 </div>
 
+## arXiv
+
+<div class="publications">
+
+{% for y in page.years_arXiv %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f arxiv -q @*[year={{y}}]* %}
+{% endfor %}
+
+</div>
 
 ## Refereed Conferences
 
