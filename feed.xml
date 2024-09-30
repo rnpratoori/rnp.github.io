@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="rnpratoori.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="rnpratoori.github.io/" rel="alternate" type="text/html" /><updated>2023-10-01T03:01:36+00:00</updated><id>rnpratoori.github.io/feed.xml</id><title type="html">blank</title><subtitle>Hi all! This is the personal website for Raghunandan Pratoori
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="rnpratoori.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="rnpratoori.github.io/" rel="alternate" type="text/html" /><updated>2024-09-30T02:39:50+00:00</updated><id>rnpratoori.github.io/feed.xml</id><title type="html">blank</title><subtitle>Hi all! This is the personal website for Raghunandan Pratoori
 </subtitle><entry><title type="html">a distill-style blog post</title><link href="rnpratoori.github.io/blog/2021/distill/" rel="alternate" type="text/html" title="a distill-style blog post" /><published>2021-05-22T00:00:00+00:00</published><updated>2021-05-22T00:00:00+00:00</updated><id>rnpratoori.github.io/blog/2021/distill</id><content type="html" xml:base="rnpratoori.github.io/blog/2021/distill/"><![CDATA[<p><strong>NOTE:</strong>
 Citations, footnotes, and code blocks do not display correctly in the dark mode since distill does not support the dark mode by default.
 If you are interested in correctly adding dark mode support for distill, please open <a href="https://github.com/alshedivat/al-folio/discussions">a discussion</a> and let us know.</p>
@@ -298,6 +298,7 @@ This line is only separated by a single newline, so it’s a separate line in th
 <p>An example of displaying a tweet:</p>
 <div class="jekyll-twitter-plugin"><blockquote class="twitter-tweet"><p lang="sv" dir="ltr">jekyll-twitter-plugin (1.0.0): A Liquid tag plugin for Jekyll that renders Tweets from Twitter API <a href="http://t.co/m4EIQPM9h4">http://t.co/m4EIQPM9h4</a></p>&mdash; RubyGems (@rubygems) <a href="https://twitter.com/rubygems/status/518821243320287232?ref_src=twsrc%5Etfw">October 5, 2014</a></blockquote>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 </div>
 
 <h1 id="timeline">Timeline</h1>
